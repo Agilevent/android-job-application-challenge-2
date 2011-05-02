@@ -1,0 +1,23 @@
+h1. You heard that "Agilevent":http://www.agilevent.com is hiring, and now you'd like to join the team? 
+
+Our latest open position is a contract remote position. You can live in Minneapolis, Phoenix, NYC, Romania, wherever - it doesn't matter. 
+
+h3. In order to be considered for a position at Agilevent, you must follow these steps.
+Note: This task should take no longer than 15-20 minutes at the most. 
+
+# Fork this repository (if you don't know how to do that, google is your friend)
+# In the *github-challenge* directory, please open the existing Android app and refactor it to fix the issues listed below. The application is a simple application that connects to the "github api":http://api.github.com and pulls down the latest commits from the "rails/rails":http://github.com/rails/rails repository. Howevere, there are three issues which need to be fixed. 
+
+** Issue 1: The app automatically closes upon the start of the app. The app should start and run. 
+** Issue 2: When it does run, it doesnt look like "the screenshot":https://github.com/Agilevent/android-job-application-challenge-2/blob/master/screenshot.jpg   The app should look like the screenshot. Don't worry about the background color. Black is fine. 
+** When the network is slow sometimes the user will get an "ANR error":http://developer.android.com/guide/practices/design/responsiveness.html#anr , this should not happen. Please fix the code to make sure this does not happen. 
+
+"The final app should look like this":https://github.com/Agilevent/android-job-application-challenge-2/blob/master/screenshot.jpg 
+
+h2 Once Complete
+# Add your resume to the *resume* directory, this document can be a simple link to your online resume if you'd like.
+# Commit and Push your code to your new repository
+# Send us a pull request, we will review your code and get back to you
+
+
+Please note that these tests all require some basic "java":http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html and "Android":http://d.android.com knowledge. If you don't know java, "take a few minutes to learn the basics":http://mobile.tutsplus.com/series/learn-java-android-development/ and if you don't know Android "learn about it here":http://d.android.com/resources/index.html .  You will need to have "Java":http://www.java.com/en/download/, "Eclipse":http://eclipse.org (or "IntelliJ":http://www.jetbrains.com/idea/download/), and the "Android SDK":http://d.android.com/sdk/index.html installed.
