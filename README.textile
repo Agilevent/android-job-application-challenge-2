@@ -14,7 +14,7 @@ Note: This task should take no longer than 15-20 minutes at the most.
 
 "The final app should look like this":https://github.com/Agilevent/android-job-application-challenge-2/blob/master/screenshot.jpg 
 
-h2 Once Complete
+h2. Once Complete
 # Add your resume to the *resume* directory, this document can be a simple link to your online resume if you'd like.
 # Commit and Push your code to your new repository
 # Send us a pull request, we will review your code and get back to you
